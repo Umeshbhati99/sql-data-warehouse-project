@@ -1,7 +1,7 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository!
-This Project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights, Designed as a portfolio project highlights industry best practices in data engineering and analytics.
+Welcome to the **Data Warehouse Project** repository!
+This Project demonstrates a comprehensive data warehousing, from building a data warehouse to prepare data for generating actionable insights, Designed as a portfolio project highlights industry best practices in data engineering.
 
 ...
 
@@ -25,23 +25,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ...
 
-### BI: Analytics & Reporting (Data Analytics)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-
-**Customer Behavior**
-
-**Product Performance**
-
-**Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
 ## License
 
 This project is licensed under the [MIT License] (LICENSE).
 
 ## About Me
 
-Hi there! I'm **Umesh Bhati**. I'm a Self-taught Data Engineer.
+Hi there! I'm **Umesh Bhati**, A Self-taught Data Engineer.
